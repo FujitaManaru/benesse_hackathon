@@ -39,6 +39,15 @@ class Target extends StatelessWidget {
                 Navigator.pushNamed(context, ROUTE.RANKING);
               },
             ),
+            TextButton(
+              child: Text(
+                'Go to ${ROUTE.RANKING}',
+                textDirection: TextDirection.ltr,
+              ),
+              onPressed: () {
+                Navigator.pushNamed(context, ROUTE.RANKING);
+              },
+            ),
           ],
         ));
   }
