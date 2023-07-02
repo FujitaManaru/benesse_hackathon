@@ -1,5 +1,6 @@
 # benesse_hackathon
-https://files.slack.com/files-pri/T05525AP78D-F05F8V51YLU/image_31.png
+![image_31_720](https://github.com/FujitaManaru/benesse_hackathon/assets/137678851/5e4600a4-b557-4e73-9f95-e078f33bce49)
+
 努力経験値（仮）を競い合うアプリ
 
 
